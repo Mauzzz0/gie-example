@@ -1,3 +1,4 @@
 console.log('Одна строка')
+console.log(2)
 
-const supports = [];
+const supports = ['Video'];
