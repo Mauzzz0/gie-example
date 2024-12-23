@@ -1,1 +1,1 @@
-console.log('main-master.js')
+console.log('main-master-1-resolved.js')
